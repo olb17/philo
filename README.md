@@ -4,7 +4,10 @@ Philosopher problem implementation in Elixir with philosophers & forks as indepe
 
 ## Running
 
+With elixir 1.12+ installed.
+
 ```bash
+cd philo
 mix run --no-halt
 ```
 
