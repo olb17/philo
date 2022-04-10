@@ -1,0 +1,6 @@
+/.cache/
+/.vscode-server/
+/.ssh/
+/.gnupg/
+/.bash_history
+/.gitconfig
